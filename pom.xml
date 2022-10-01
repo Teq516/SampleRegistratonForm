@@ -39,5 +39,6 @@
         </plugins>
     </pluginManagement>
     <finalName>RegistrationForm</finalName>
+    <defaultGoal>install</defaultGoal>
   </build>
 </project>
